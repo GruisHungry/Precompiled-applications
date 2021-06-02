@@ -7,4 +7,5 @@
 5. No Cuck of Conduct
 6. No pull requests are accepted
 7. My repo my rules
-8. Ooga boooga
+8. Put the files in /usr/bin/ if you know the risks
+9. Ooga boooga
