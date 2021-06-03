@@ -8,4 +8,5 @@
 6. No pull requests are accepted
 7. My repo my rules
 8. Put the files in /usr/bin/ if you know the risks
-9. Ooga boooga
+9. Only Linux here
+10. Ooga boooga
